@@ -38,16 +38,16 @@ This project is a web-based Ground Control Station (GCS) developed for monitorin
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![Dashboard](dashboard.png.png)
+![Dashboard](dashboard.png)
 
 ### Telemetry Dashboard
-![Dashboard](dashboard1.png.png)
+![Dashboard](dashboard1.png)
 
 ### Graphs and Sensors
-![Dashboard](dashboard2.png.png)
+![Dashboard](dashboard2.png)
 
 ### Communication & Logging
-![Dashboard](dashboard3.png.png)
+![Dashboard](dashboard3.png)
 
 ## Future Improvements
 
